@@ -1,0 +1,19 @@
+{
+  "name": "weixin",
+  "version": "1.0.0",
+  "description": "nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wuwc",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "koa": "^2.3.0",
+    "raw-body": "^2.3.2",
+    "request": "^2.83.0",
+    "sha1": "^1.1.1",
+    "xml2js": "^0.4.19"
+  }
+}
